@@ -97,7 +97,7 @@ Python-dotenv to manage API key securely
 
 👩‍💻 Created By
 
-Ushmitha Annapaneni
+Vedasri Narla
 
 Feel free to ⭐ star or fork the project if you found it interesting!
 
